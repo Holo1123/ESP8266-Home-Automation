@@ -6,8 +6,8 @@ We went with the aim to create a low cost project (under Rs 5000 or 30$) as to m
 We got an A for this course which was nice.
 
 Members:
-Hassan Shakeel and Sher Ali
+Sher Ali and Hassan Shakeel
 
-The device displays temperature and humidty levels for the room it was in and allowed power control for 2 electronic devices .
-It also had a C02 level detector that if triggered to blink red LEDs and a buzzer would buzz. 
-Further more it supported battery back up as well as an adapter for power.
+The device displays temperature and humidty levels for the room it was in and allowed automation of 2 electronic devices like Air conditioner and fan. It also had a C02 level detector that if triggered would alert the users through a buzzer and would automatically turn off the main gas supply of the room or home. We could also control the automation through voice control using the IFTTT server.We could also turn on or off the devices from anywhere in the world. Further more it supported battery back up as well as an adapter for power.
+
+![alt text](https://github.com/Holo1123/ESP8266-Home-Automation/blob/main/Home_automation.jpeg?raw=true)
